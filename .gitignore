@@ -4,5 +4,6 @@
 *.tsbuildinfo
 .vscode
 default.project.json
+aftman.toml
+*.lock
 *.rbxl
-*.lockaftman.toml
