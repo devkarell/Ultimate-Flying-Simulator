@@ -1,3 +1,7 @@
-import { makeHello } from "shared/module";
+import { makeHello } from 'shared/module';
 
-print(makeHello("main.client.ts"));
+print(makeHello('main.client.ts'));
+
+export function abc() {
+	print('aman');
+}
