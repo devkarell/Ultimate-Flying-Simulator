@@ -1,9 +1,5 @@
 /node_modules
 /out
-/include
 *.tsbuildinfo
-.vscode
-default.project.json
-aftman.toml
 *.lock
 *.rbxl
